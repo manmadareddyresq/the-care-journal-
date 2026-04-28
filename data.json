@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Future of Telemedicine 2026",
+    "slug": "telemedicine-2026",
+    "author": "Dr. Sarah Chen",
+    "category": "Technology",
+    "date": "2026-04-15",
+    "image": "https://images.unsplash.com/photo-1576091160399-1d65c998db9e?w=1200&h=630&fit=crop",
+    "excerpt": "AI, wearables, and 5G are revolutionizing healthcare.",
+    "readingTime": "8 min",
+    "tags": ["telemedicine", "AI", "5G"],
+    "content": "<h1>Future of Telemedicine</h1><p>Telemedicine has evolved from niche to cornerstone. In 2026, expect:</p><ul><li>AI diagnostics (94% accuracy)</li><li>Real-time wearables</li><li>Holographic consultations</li></ul><blockquote>\"Telemedicine empowers doctors\" — Dr. Sarah Chen</blockquote><p><strong>By 2027:</strong> Universal health passports with biometric auth.</p>"
+  },
+  {
+    "title": "Nutrition Myths Debunked",
+    "slug": "nutrition-myths",
+    "author": "Dr. Michael Patel", 
+    "category": "Nutrition",
+    "date": "2026-04-20",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&h=630&fit=crop",
+    "excerpt": "7 nutrition myths costing you health.",
+    "readingTime": "6 min",
+    "tags": ["nutrition", "diet"],
+    "content": "<h1>Nutrition Truths</h1><p><strong>Myth:</strong> Carbs are evil. <strong>Truth:</strong> Complex carbs stabilize blood sugar.</p><table><tr><th>Nutrient</th><th>Daily</th><th>Sources</th></tr><tr><td>Fiber</td><td>30g</td><td>Beans, oats</td></tr></table><p>Track 7 days = 80% habits revealed.</p>"
+  },
+  {
+    "title": "Workplace Mental Health Fix",
+    "slug": "mental-health-work",
+    "author": "Dr. Emily Rivera",
+    "category": "Mental Health",
+    "date": "2026-04-25", 
+    "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&h=630&fit=crop",
+    "excerpt": "$47B lost to burnout. Here's the fix.",
+    "readingTime": "7 min",
+    "tags": ["mental-health", "workplace"],
+    "content": "<h1>Mental Health Crisis</h1><p>47% employees burned out. $47B lost yearly.</p><h2>Solutions:</h2><ol><li>5-min hourly breaks (23% mood boost)</li><li>No email after 7PM</li></ol><p>500+ companies: 68% turnover reduction.</p>"
+  }
+]
