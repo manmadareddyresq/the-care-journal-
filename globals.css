@@ -1,0 +1,15 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { @apply bg-gradient-to-br from-white to-slate-50 dark:from-slate-900 dark:to-slate-800; }
+}
+
+@layer components {
+  .glass { @apply bg-white/80 dark:bg-slate-800/80 backdrop-blur-xl border border-white/20 dark:border-slate-700/50; }
+  .neumorph { @apply shadow-[8px_8px_16px_#d1d9e6,-8px_-8px_16px_#f8f9fa] dark:shadow-[8px_8px_16px_#2a2e39,-8px_-8px_16px_#404859]; }
+  .gradient-border { 
+    background: linear-gradient(45deg, #3b82f6, #22c55e); 
+    background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; 
+  }
+}
